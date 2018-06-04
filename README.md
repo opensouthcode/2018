@@ -3,7 +3,8 @@
 [![Opensouthcode](/logos/solo_logo.png)](https://www.opensouthcode.org/conferences/opensouthcode2018)
 
  - [Presentaciones por orden alfabético](#por-orden-alfabético)
- - [Presentaciones por día](#por-día)
+ - [Presentaciones Viernes 1 de Junio](#viernes-1-de-junio)
+ - [Presentaciones Sábado 2 de Junio](#sábado-2-de-junio)
 
 ## Presentaciones
 
@@ -96,7 +97,7 @@
  - React y la Wordpress REST API por [Fran Pérez](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/165)
  - React y D3.js, trabajando juntos por [Javier Calzado](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/125)
 
-### Sábado 2 de Junio
+#### Sábado 2 de Junio
 
  - Primeros pasos del Software Libre en infraestructura civil: CIP por [Agustín Benito Bethencourt](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/119)
  - [Integrando tus aplicaciones facilmente con Apache Camel](https://www.slideshare.net/jromanmartin/opensouthcode-2018-integrating-your-applications-easily-with-apache-camel) por [Román Martín Gil](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/153)
