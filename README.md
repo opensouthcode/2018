@@ -62,6 +62,7 @@
  - Redux Sagas vs Observables por [Daniel Pérez y Jaime](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/128)
  - Selenium 1:1 por [Vicente González](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/142)
  - Spring Cloud Microservices 101 por [Juan Manuel Cintas Peña y restalion](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/146)
+ - [Taller de desarrollo de aplicaciones multiplataforma con Xamarin](https://javiersuarezruiz.wordpress.com/2018/06/04/material-taller-xamarin-en-opensouthcode-2018/) por [Javier Suárez Ruiz](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/159)
  - Trabajo remoto: ¿Están nuestras empresas preparadas? ¿Y nosotros? por [Adela Ferrer](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/137)
  - Wazuh: A comprehensive open source security monitoring platform por [Jose Luis](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/170)
 
@@ -78,6 +79,8 @@
  - Spring Cloud Microservices 101 por [Juan Manuel Cintas Peña y restalion](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/146)
  - Machine Learning en tu navegador por [Raúl Yeguas](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/138)
  - Chirimoya: sofware para presentaciones basado en Angular por [Luis José Sánchez González](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/111)
+ - [Taller de desarrollo de aplicaciones multiplataforma con Xamarin](https://javiersuarezruiz.wordpress.com/2018/06/04/material-taller-xamarin-en-opensouthcode-2018/) por [Javier Suárez Ruiz](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/159)
+
  - Desarrolla aplicaciones web sin html ni javascript por [Rafa Molina](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/148)
  - Introducción a Rust por [Daniel García Moreno](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/117)
  - Introducción a TypeScript por [crsanti](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/129)
