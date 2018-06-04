@@ -2,12 +2,17 @@
 
 [![Opensouthcode](/logos/solo_logo.png)](https://www.opensouthcode.org/conferences/opensouthcode2018)
 
- - [Presentaciones](#por-orden-alfabético)
+ - [Presentaciones por orden alfabético](#por-orden-alfabético)
+ - [Presentaciones por día](#por-día)
 
 ## Presentaciones
 
-    Para subir presentaciones:
-    realizar un pull request con la presentación dentro del directorio /presentaciones/ o con el enlace modificado en este README
+  Para subir presentaciones puedes hacerlo de varias formas:
+
+  - Realizar un pull request con la presentación dentro del directorio /presentaciones/
+  - Realiza un pull request modificando este README y poniendo el enlace donde tengas subida la presentación.
+  - Envía la presentación a info@opensouthcode.org y nosotros nos encargamos :)
+
 
 ### Por orden alfabético:
 
