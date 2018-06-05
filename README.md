@@ -38,7 +38,7 @@
  - Gestion del DR en GNU/Linux con ReaR & DRLM por [Didac Olivera](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/132)
  - Integrando Machine Learning en Microservicios por [Rafael Hidalgo y restalion](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/122)
  - [Integrando tus aplicaciones facilmente con Apache Camel](https://www.slideshare.net/jromanmartin/opensouthcode-2018-integrating-your-applications-easily-with-apache-camel) por [Román Martín Gil](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/153)
- - Introducción a GCloud SDK por [Javier Ramírez](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/166)
+ - [Introducción a GCloud SDK por](https://github.com/javilinux/conferences/tree/master/2018/opensouthcode/gcloud-sdk) [Javier Ramírez](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/166)
  - Introducción a Lagom y primeros pasos [Rafa Hidalgo y David Urdiales](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/163)
  - Introducción a Rust por [Daniel García Moreno](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/117)
  - Introducción a TypeScript por [crsanti](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/129)
@@ -50,7 +50,7 @@
  - NLTK: Procesando el lenguaje natural por [david](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/168)
  - Open Source Code Inspection, Security and Testing Power Tools por [Jorge Hidalgo](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/126)
  - OpenProdoc: gestión documental con software libre por [Guillermo](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/143)
- - Openshift Break & Fix por [Javier Ramírez](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/113).
+ - [Openshift Break & Fix](https://github.com/ruromero/break-fix) por [Javier Ramírez](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/113).
  - [OpenStack: Introducción a como tener tu propia cloud](https://t.co/cLLt6A1hiG) por [Pablo Martínez Schroder](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/166)
  - Por qué deberías usar openSUSE Tumbleweed por [Antonio Larrosa](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/131)
  - Primeros pasos del Software Libre en infraestructura civil: CIP por [Agustín Benito Bethencourt](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/119)
@@ -72,7 +72,7 @@
 ### Por día:
 
 #### Viernes 1 de Junio
- - Taller: Openshift Break & Fix por [Javier Ramírez](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/113).
+ - [Taller: Openshift Break & Fix](https://github.com/ruromero/break-fix) por [Javier Ramírez](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/113).
  - Django y Angular 5 de la mano por [Juan Antonio Oyague](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/107)
  - BigData y ML en todoColeccion por [Antonio Jerez](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/139)
  - Ionic, from 0 to hero por [Rubén Triviño Juárez](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/140)
@@ -92,7 +92,7 @@
  - Integrando Machine Learning en Microservicios por [Rafael Hidalgo y restalion](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/122)
  - [OpenStack: Introducción a como tener tu propia cloud](https://t.co/cLLt6A1hiG) por [Pablo Martínez Schroder](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/166)
  - Aplicación para prototipado y documentación de aplicaciones de base de datos por [Domingo Álvarez Duarte](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/166)
- - Introducción a GCloud SDK por [Javier Ramírez](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/166)
+ - [Introducción a GCloud SDK](https://github.com/javilinux/conferences/tree/master/2018/opensouthcode/gcloud-sdk) por [Javier Ramírez](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/166)
  - Consistencia en tu código javascript con eslint y prettier por [Alberto Bautista](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/151)
  - OpenProdoc: gestión documental con software libre por [Guillermo](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/143)
  - Analizando la UX con Javascript por [Carmel Hassan y Miguel Torres](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/105)
