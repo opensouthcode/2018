@@ -47,7 +47,7 @@
  - Machine Learning en tu navegador por [Raúl Yeguas](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/138)
  - [Microsoft Windows Template Studio](https://es.slideshare.net/mvegaca/opensouthwts) por [Martín Vega](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/118)
  - Migrando de Angular a ngrx por [Jaime](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/123)
- - NLTK: Procesando el lenguaje natural por [david](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/168)
+ - [NLTK: Procesando el lenguaje natural](https://github.com/opensouthcode/2018/raw/master/presentaciones/nltk.odp) por [david](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/168)
  - Open Source Code Inspection, Security and Testing Power Tools por [Jorge Hidalgo](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/126)
  - OpenProdoc: gestión documental con software libre por [Guillermo](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/143)
  - [Openshift Break & Fix](https://github.com/ruromero/break-fix) por [Javier Ramírez](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/113).
@@ -84,7 +84,7 @@
  - Desarrolla aplicaciones web sin html ni javascript por [Rafa Molina](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/148)
  - Introducción a Rust por [Daniel García Moreno](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/117)
  - Introducción a TypeScript por [crsanti](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/129)
- - NLTK: Procesando el lenguaje natural por [david](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/168)
+ - [NLTK: Procesando el lenguaje natural](https://github.com/opensouthcode/2018/raw/master/presentaciones/nltk.odp) por [david](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/168)
  - Experiencias sobre modernización de aplicaciones y entornos opensource por [Alejandro Escanero](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/157)
  - Wazuh: A comprehensive open source security monitoring platform por [Jose Luis](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/170)
  - Taller Devops: From source to production por [Pedro Parra Ortega](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/145)
