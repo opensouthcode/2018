@@ -17,7 +17,7 @@
 
 ### Por orden alfabético:
 
- - Analizando la UX con Javascript por [Carmel Hassan y Miguel Torres](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/105)
+ - [Analizando la UX con Javascript](https://github.com/opensouthcode/2018/raw/master/presentaciones/Analizando%20experiencias%20de%20usuario%20con%20Javascript.pdf) por [Carmel Hassan y Miguel Torres](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/105)
  - Angular Elements por [Jesús Rodríguez Rodríguez](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/135)
  - Ansible para programadores por [Jose Miguel Martínez](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/156)
  - Aplicación para prototipado y documentación de aplicaciones de base de datos por [Domingo Álvarez Duarte](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/166)
@@ -95,7 +95,7 @@
  - [Introducción a GCloud SDK](https://github.com/javilinux/conferences/tree/master/2018/opensouthcode/gcloud-sdk) por [Javier Ramírez](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/166)
  - Consistencia en tu código javascript con eslint y prettier por [Alberto Bautista](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/151)
  - OpenProdoc: gestión documental con software libre por [Guillermo](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/143)
- - Analizando la UX con Javascript por [Carmel Hassan y Miguel Torres](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/105)
+ - [Analizando la UX con Javascript](https://github.com/opensouthcode/2018/raw/master/presentaciones/Analizando%20experiencias%20de%20usuario%20con%20Javascript.pdf) por [Carmel Hassan y Miguel Torres](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/105)
  - Introducción a Lagom y primeros pasos [Rafa Hidalgo y David Urdiales](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/163)
  - React y la Wordpress REST API por [Fran Pérez](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/165)
  - React y D3.js, trabajando juntos por [Javier Calzado](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/125)
