@@ -49,7 +49,7 @@
  - Migrando de Angular a ngrx por [Jaime](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/123)
  - [NLTK: Procesando el lenguaje natural](https://github.com/opensouthcode/2018/raw/master/presentaciones/nltk.odp) por [david](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/168)
  - Open Source Code Inspection, Security and Testing Power Tools por [Jorge Hidalgo](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/126)
- - OpenProdoc: gestión documental con software libre por [Guillermo](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/143)
+ - [OpenProdoc: gestión documental con software libre](https://nosturi.es/openprodoc-opensouthcode/docs/index.html#/) por [Guillermo Castellano](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/143)
  - [Openshift Break & Fix](https://github.com/ruromero/break-fix) por [Javier Ramírez](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/113).
  - [OpenStack: Introducción a como tener tu propia cloud](https://t.co/cLLt6A1hiG) por [Pablo Martínez Schroder](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/166)
  - Por qué deberías usar openSUSE Tumbleweed por [Antonio Larrosa](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/131)
@@ -94,7 +94,7 @@
  - Aplicación para prototipado y documentación de aplicaciones de base de datos por [Domingo Álvarez Duarte](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/166)
  - [Introducción a GCloud SDK](https://github.com/javilinux/conferences/tree/master/2018/opensouthcode/gcloud-sdk) por [Javier Ramírez](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/166)
  - Consistencia en tu código javascript con eslint y prettier por [Alberto Bautista](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/151)
- - OpenProdoc: gestión documental con software libre por [Guillermo](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/143)
+ - [OpenProdoc: gestión documental con software libre](https://nosturi.es/openprodoc-opensouthcode/docs/index.html#/) por [Guillermo Castellano](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/143)
  - [Analizando la UX con Javascript](https://github.com/opensouthcode/2018/raw/master/presentaciones/Analizando%20experiencias%20de%20usuario%20con%20Javascript.pdf) por [Carmel Hassan y Miguel Torres](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/105)
  - Introducción a Lagom y primeros pasos [Rafa Hidalgo y David Urdiales](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/163)
  - React y la Wordpress REST API por [Fran Pérez](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/165)
