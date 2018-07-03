@@ -120,7 +120,7 @@
  - Progressive Web Apps por [Pablo Ortuño Salmerón](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/133)
  - Redux Sagas vs Observables por [Daniel Pérez y Jaime](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/128)
  - Ansible para programadores por [Jose Miguel Martínez](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/156)
- - Open Source Code Inspection, Security and Testing Power Tools por [Jorge Hidalgo](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/126)
+ - [Open Source Code Inspection, Security and Testing Power Tools](https://www.slideshare.net/deors/open-source-power-tools-opensouthcode-20180602) por [Jorge Hidalgo](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/126)
  - Pruebas unitarias con Jest por [Daniel Sánchez Muñoz](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/124)
  - Selenium 1:1 por [Vicente González](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/142)
  - Trabajo remoto: ¿Están nuestras empresas preparadas? ¿Y nosotros? por [Adela Ferrer](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/137)
